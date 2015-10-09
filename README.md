@@ -5,6 +5,9 @@
 3. git add -A
 4. git commit -m "Initialize repository"
 
+// delete init
+rm -rf .git
+
 // delete remote keep local
 1. git rm -r --cached Prm110/Debug
 2. git rm -r --cached Prm110/Release
